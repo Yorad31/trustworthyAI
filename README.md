@@ -1,4 +1,4 @@
-# Trustworthy AI
+# This project is tested with BrowserStack.
 
 This repository is a collection of trustworthy AI related works from Huawei Noah's Ark Lab.  
 
